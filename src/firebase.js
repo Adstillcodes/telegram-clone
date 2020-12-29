@@ -1,7 +1,7 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
+  apiKey: "YOUR_API_KE",
   authDomain: "YOUR_AUTH_DOMAIN",
   databaseURL: "YOUR_DATABSE_URL",
   projectId: "YOUR_PROJECT_ID",
